@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=No titlebars
+Comment=A window border theme that gets rid of almost all window decorations. Make sure you have working keybindings for all the operations you would normally use the titlebar for.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+MetacityTheme=No titlebars
+ButtonLayout=menu:
