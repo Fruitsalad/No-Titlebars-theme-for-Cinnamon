@@ -1,3 +1,10 @@
+# This project is obsolete
+
+**Since Linux Mint 21, this approach to hiding title bars does not work anymore.
+Instead, you can use the extension Cinnamon Maximus.
+(Note that, after installing the extension, you need to enable it using the
+plus button in the list of installed extensions)**
+
 # No Titlebars theme for Cinnamon and the Gnome Desktop Environment 
 
 This is a window border theme for Cinnamon that disables almost all window decorations.
